@@ -1,23 +1,17 @@
 # Genetic_Toolkit
 
-*****************************************************
-*                                                   *
-*            "creator" : "dr.akshay_pandya"         *
-*            "address" : "Gujarat,India"            *
-*         "contact_no" : "6355631960"               *
-*            "mail_id" : "akkypan99@gmail.com"      *
-*   "date_of_creation" : "2020-04-24"               *
-*               "size" : "20 kb(*aprx)"             *
-*                "use" : "to process genetic data"  *
-*                                                   *
-*****************************************************
+            "creator" : "dr.akshay_pandya"
+            "address" : "Gujarat,India"
+         "contact_no" : "6355631960"
+            "mail_id" : "akkypan99@gmail.com"
+   "date_of_creation" : "2020-04-24"
+               "size" : "20 kb(*aprx)"
+                "use" : "to process genetic data"
 
 *******************************************************************************************************************
-*                                                                                                                 *
 *  THIS MODULE IS ONLY FOR PERSONAL USE.                                                                          *
 *  ANYONE WILLING TO USE THIS MODULE PROFESSIONALLY PLEASE CONTACT CREATOR.                                       *
 *  IF YOU WANT TO PUBLISH ANY PAPER CONTAINING DATA FETCHED(PROCESSED) USING THIS MODULE PLEASE CONTACT CREATER   *
-*                                                                                                                 *
 *******************************************************************************************************************
 
 *** FILE_STRUCTURE NEEDED TO USE THIS MODULE *
