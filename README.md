@@ -1,12 +1,12 @@
 # Genetic_Toolkit
 
-            "creator" : "dr.akshay_pandya"
-            "address" : "Gujarat,India"
-         "contact_no" : "6355631960"
-            "mail_id" : "akkypan99@gmail.com"
-   "date_of_creation" : "2020-04-24"
-               "size" : "20 kb(*aprx)"
-                "use" : "to process genetic data"
+             "creator" : "dr.akshay_pandya"
+             "address" : "Gujarat,India"
+          "contact_no" : "6355631960"
+             "mail_id" : "akkypan99@gmail.com"
+    "date_of_creation" : "2020-04-24"
+                "size" : "20 kb(*aprx)"
+                 "use" : "to process genetic data"
 
 *******************************************************************************************************************
 *  THIS MODULE IS ONLY FOR PERSONAL USE.                                                                          *
@@ -16,18 +16,18 @@
 
 *** FILE_STRUCTURE NEEDED TO USE THIS MODULE *
 
-> [MAIN]
-    > [DATABASE]
-        > [__init__.py]
-        > [CODON.py]
-        > [EXAMPLE_DATABASE.py]
-        > [TEMPLATE.py]
-    > [LogFiles]
-    > [TOOLS]
-        > [__init__.py]
-        > [log.py]
-        > [Genetic_Toolkit.py]
-    > [research.py]
+    > [MAIN]
+        > [DATABASE]
+            > [__init__.py]
+            > [CODON.py]
+            > [EXAMPLE_DATABASE.py]
+            > [TEMPLATE.py]
+        > [LogFiles]
+        > [TOOLS]
+            > [__init__.py]
+            > [log.py]
+            > [Genetic_Toolkit.py]
+        > [research.py]
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -154,13 +154,9 @@
     1. genome=dict
       - It Takes "Mod_Genome" Dictionary As An Argument.
 
-################################################################
-#                                                              #
-# *** PERFORMANCE ADVICE *                                     #
-#                                                              #
-#                                                              #
-# ~ SETTING LEVEL TO 1 OR 2 WILL COST A LOT OF TIME            #
-# ~ SETTING FORCED TO TRUE WILL ALSO LEAD TO TIME CONSUPTION   #
-# ~ DO THIS ONLY IF YOU HAVE GOOD HARDWARE OR A LOT OF TIME    #
-#                                                              #
-################################################################
+
+# *** PERFORMANCE ADVICE *
+ ~ SETTING LEVEL TO 1 OR 2 WILL COST A LOT OF TIME
+ ~ SETTING FORCED TO TRUE WILL ALSO LEAD TO TIME CONSUPTION
+ ~ DO THIS ONLY IF YOU HAVE GOOD HARDWARE OR A LOT OF TIME
+ 
