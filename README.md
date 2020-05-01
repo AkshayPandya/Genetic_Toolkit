@@ -75,7 +75,8 @@
     2. Compare_DataBase
     3. Amino_Acid_Dict
     4. Translate
-    5. Performance_Index
+    5. Identical_Scan
+    6. Performance_Index
 
 [1] Scan_DataBase
     
@@ -143,7 +144,21 @@
     4. n=int
       - It Takes Ending Position Of Protein On Gene As An Argument.
 
-[5] Performance_Index
+[5] Identical_Scan
+
+    ~ This Class Compares Two Identical Databases.
+
+    ~ It Takes Following Args
+    1. genome_1=str,
+      - It Takes "Mod_Genome" String of database-1 As An Argument.
+    2. genome_2=str,
+      - It Takes "Mod_Genome" String of database-2 As An Argument.
+    3. Amino_Acid_1=dict,
+      - It Takes "Amino_Acids" Dictionary of database-1 As An Argument.
+    4. Amino_Acid_2=dict
+      - It Takes "Amino_Acids" Dictionary of database-2 As An Argument.
+
+[6] Performance_Index
 
     ~ This Class Creates A List.
     ~ Structure Of List -- [No. Of "M", No. Of "#", Total Of Both]
