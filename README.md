@@ -5,7 +5,7 @@
           "contact_no" : "6355631960"
              "mail_id" : "akkypan99@gmail.com"
     "date_of_creation" : "2020-04-24"
-                "size" : "20 kb(*aprx)"
+                "size" : "140 kb(*aprx)"
                  "use" : "to process genetic data"
 
 *******************************************************************************************************************
