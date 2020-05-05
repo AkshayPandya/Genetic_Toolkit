@@ -143,7 +143,7 @@
     ~ This Class Creates A Dictionary Containing Amino-Acid Chains Sorted By Their Reading-Frame.(In Short It Creates "Amino_Acids" Dictionary Mentioned Above)
 
     ~ It Takes Following Args
-    1. G=dict,
+    1. G=str,
       - It Takes "Mod_Genome" String As An Argument.
     2. C=dict
       - It Takes "rna_codon" Dictionary As An Argument.
@@ -500,7 +500,7 @@ class Amino_Acid_Dict:
 
     # CREATING INIT FUNCTION
 
-    def __init__(self, G=dict, C=dict):
+    def __init__(self, G=str, C=dict):
 
         # DECLARING VARIABLES
 
